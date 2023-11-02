@@ -6,3 +6,5 @@ malzemeler
 5.yag
 hazirlanisi
 1.yumurta ve sekeri iyice cirp.
+2.diger malzemeleri ekle guzelce cirp.
+3.firini isit.
