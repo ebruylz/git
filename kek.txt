@@ -1,1 +1,5 @@
-
+malzemeler
+1.un
+2.seker
+3.yumurta
+4.sut
